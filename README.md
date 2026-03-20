@@ -213,3 +213,7 @@ Instagram: <https://www.instagram.com/themesberg/>
 
 
 Tally started
+
+1.1.2
+
+Tally/ side v1 started
